@@ -198,6 +198,8 @@ public class OpenSSOLogin extends HttpServlet {
             System.out.print"test again " );
             
             System.out.print( " It is may be bad" );
+            System.out.print( "test" );
+
 
             if ((idpEntityID == null) || (idpEntityID.length() == 0)) {
                 SAML2MetaManager manager = new SAML2MetaManager();
