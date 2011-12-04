@@ -199,6 +199,7 @@ public class OpenSSOLogin extends HttpServlet {
             
             System.out.print( " It is may be bad" );
             System.out.print( "test" );
+            System.out.print("test again for liu 20111204");
 
 
             if ((idpEntityID == null) || (idpEntityID.length() == 0)) {
